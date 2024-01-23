@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "name": "ashvi",
+      "email": "prashant.kumar@svam.com",
+      "password": "124321423142314235324",
+      "age": "21",
+      "id": 12
+    },
+    {
+      "name": "Anusha",
+      "email": "anusha@gmail.com",
+      "password": "kjdfhakjsfhdakjfh",
+      "age": "21",
+      "id": 13
+    },
+    {
+      "name": "ashvi",
+      "email": "jkah@gmail.com",
+      "password": "ashvi123456",
+      "age": "21",
+      "id": 14
+    },
+    {
+      "name": "Prashant kumar",
+      "email": "prashant.kumar@svam.com",
+      "password": "afdsafsdafsdafdsafdsafsafsdaf",
+      "age": "21",
+      "id": 15
+    },
+    {
+      "name": "Prashant",
+      "email": "prashant.kumar@svam.com",
+      "password": "safdsafdsafdsafsdafsdafsdafsdaf",
+      "age": "21",
+      "id": 16
+    },
+    {
+      "name": "anusha",
+      "email": "prashant.kumar@svam.com",
+      "password": "21894367321846238176",
+      "age": "21",
+      "id": 18
+    },
+    {
+      "name": " hello",
+      "email": "hello@gmail.com",
+      "password": "21314234",
+      "age": "21",
+      "id": 19
+    },
+    {
+      "name": "Prashant",
+      "email": "prashant.kumar@svam.com",
+      "password": "ksjdfhk8721463",
+      "age": "23",
+      "id": 24
+    },
+    {
+      "name": "Aman kumar ",
+      "email": "acb.@gmail.com",
+      "password": "kjalsdhfk21341",
+      "age": "23",
+      "id": 25
+    },
+    {
+      "name": "Prashant",
+      "email": "prashant.kumar@svam.com",
+      "password": "12345678",
+      "age": "222",
+      "id": 26
+    },
+    {
+      "name": "Prashant",
+      "email": "prashant.kumar@svam.com",
+      "password": "1421343214231434",
+      "age": "222",
+      "id": 27
+    },
+    {
+      "name": "Prashant",
+      "email": "prashant.kumar@svam.com",
+      "password": "ioqwueryqwiuoryewioquy",
+      "age": "22",
+      "id": 28
+    },
+    {
+      "name": "a",
+      "email": "kjhfs@gmail.com",
+      "password": "ajksdfkerw",
+      "age": "21",
+      "id": 29
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
